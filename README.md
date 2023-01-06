@@ -7,4 +7,4 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devMattheus&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devMattheus&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
